@@ -62,6 +62,14 @@ export default function Weather() {
           </ul>
         </div>
       </div>
+      <div>
+        <p>
+          <a href="https://github.com/rasheedawilson12/weather-react.git">
+            Open-source
+          </a>
+          app coded by Cedra Wilson
+        </p>
+      </div>
     </div>
   );
 }
